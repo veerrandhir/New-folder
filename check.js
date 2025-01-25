@@ -23,7 +23,7 @@ const myBookList = {
 
 
 const myBookListInArray = {
-    book1:[
+    books:[
     {
         id: 456,
         name: "Rich Dad Poor Dad",
